@@ -1,0 +1,306 @@
+1585765885374	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Stevesy\\AppData\\Local\\Temp\\rust_mozprofile.fv1Q4baxuhEw"
+1585765885694	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585765886166	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585765886166	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585765886167	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585765886167	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585765888105	Marionette	INFO	Listening on port 60219
+1585765888489	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11854: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11910: unreachable code after return statement
+JavaScript error: https://eus.rubiconproject.com/usync.html?gdpr=0&gdpr_consent=, line 12: SecurityError: The operation is insecure.
+1585765905835	Marionette	INFO	Stopped listening on port 60219
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1585765910033	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Stevesy\\AppData\\Local\\Temp\\rust_mozprofile.zoDvynrEjnPy"
+1585765910368	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585765910971	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585765910971	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585765910971	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585765910971	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585765912758	Marionette	INFO	Listening on port 60377
+1585765913158	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11853: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11909: unreachable code after return statement
+JavaScript error: https://eus.rubiconproject.com/usync.html?gdpr=0&gdpr_consent=, line 12: SecurityError: The operation is insecure.
+1585766348445	Marionette	INFO	Stopped listening on port 60377
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1585781062919	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Stevesy\\AppData\\Local\\Temp\\rust_mozprofile.1sN1B1TKGYrS"
+1585781063219	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585781063640	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585781063640	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585781063640	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585781063640	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585781065687	Marionette	INFO	Listening on port 54363
+1585781066035	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11853: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11909: unreachable code after return statement
+1585781417820	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Stevesy\\AppData\\Local\\Temp\\rust_mozprofile.INpHPkeHqhrm"
+1585781418127	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585781418787	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585781418787	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585781418787	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585781418787	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585781420667	Marionette	INFO	Listening on port 54777
+1585781420944	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11857: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11913: unreachable code after return statement
+JavaScript error: https://eus.rubiconproject.com/usync.html?gdpr=0&gdpr_consent=, line 12: SecurityError: The operation is insecure.
+1585781532850	Marionette	INFO	Stopped listening on port 54777
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1585781554741	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Stevesy\\AppData\\Local\\Temp\\rust_mozprofile.yWSLEaN1e1Zq"
+1585781554953	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585781555315	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585781555315	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585781555315	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585781555315	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585781556990	Marionette	INFO	Listening on port 55016
+1585781557353	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 7890: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 7946: unreachable code after return statement
+JavaScript error: https://eus.rubiconproject.com/usync.html?gdpr=0&gdpr_consent=, line 12: SecurityError: The operation is insecure.
+1585782332236	Marionette	INFO	Stopped listening on port 55016
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1585782410053	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Stevesy\\AppData\\Local\\Temp\\rust_mozprofile.xp8spNtuGDFJ"
+1585782410427	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585782410810	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585782410810	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585782410811	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585782410811	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585782412662	Marionette	INFO	Listening on port 55802
+1585782412669	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 7890: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 7946: unreachable code after return statement
+JavaScript error: https://eus.rubiconproject.com/usync.html?gdpr=0&gdpr_consent=, line 12: SecurityError: The operation is insecure.
+1585782631632	Marionette	INFO	Stopped listening on port 55802
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+etworkStatus
+1585782631280	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585782631280	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585782631280	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585782631280	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585782633303	Marionette	INFO	Listening on port 56067
+1585782633630	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11857: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11913: unreachable code after return statement
+1585782659628	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-1585782659678	Marionette	INFO	Stopped listening on port 56067
+
+###!!! [Child][RunMessage] Err1585782659885	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585782660204	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585782660204	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585782660204	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585782660204	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585782662065	Marionette	INFO	Listening on port 56233
+1585782662235	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11857: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11913: unreachable code after return statement
+JavaScript error: https://eus.rubiconproject.com/usync.html?gdpr=0&gdpr_consent=, line 12: SecurityError: The operation is insecure.
+1585782955082	Marionette	INFO	Stopped listening on port 56233
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+etworkStatus
+1585782823545	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585782823545	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585782823545	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585782823545	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585782825543	Marionette	INFO	Listening on port 56508
+1585782825760	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 7890: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 7946: unreachable code after return statement
+JavaScript error: https://eus.rubiconproject.com/usync.html?gdpr=0&gdpr_consent=, line 12: SecurityError: The operation is insecure.
+1585782956108	Marionette	INFO	Stopped listening on port 56508
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1585782960290	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Stevesy\\AppData\\Local\\Temp\\rust_mozprofile.SIkem7UoEtw7"
+1585782960605	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585782961170	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585782961170	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585782961170	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585782961170	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585782963037	Marionette	INFO	Listening on port 56779
+1585782963405	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11857: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11913: unreachable code after return statement
+JavaScript error: https://eus.rubiconproject.com/usync.html?gdpr=0&gdpr_consent=, line 12: SecurityError: The operation is insecure.
+1585783017795	Marionette	INFO	Stopped listening on port 56779
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1585783118000	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Stevesy\\AppData\\Local\\Temp\\rust_mozprofile.NeclHzsqFbDn"
+1585783118314	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585783119023	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585783119023	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585783119024	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585783119024	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585783120840	Marionette	INFO	Listening on port 57021
+1585783121123	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11858: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11914: unreachable code after return statement
+JavaScript error: https://eus.rubiconproject.com/usync.html?gdpr=0&gdpr_consent=, line 12: SecurityError: The operation is insecure.
+1585793739667	Marionette	INFO	Stopped listening on port 57021
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1585862798750	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Stevesy\\AppData\\Local\\Temp\\rust_mozprofile.s7kdr9Y9X5ZQ"
+1585862799495	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585862799759	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585862799759	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585862799759	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585862799759	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585862801902	Marionette	INFO	Listening on port 52246
+1585862802369	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11060: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11116: unreachable code after return statement
+JavaScript error: https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js, line 56: TypeError: f[0] is undefined
+JavaScript error: https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js, line 56: TypeError: f[0] is undefined
+JavaScript error: https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js, line 56: TypeError: f[0] is undefined
+JavaScript error: https://eus.rubiconproject.com/usync.html?gdpr=0&gdpr_consent=, line 12: SecurityError: The operation is insecure.
+1585863555194	Marionette	INFO	Stopped listening on port 52246
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1585863669267	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Stevesy\\AppData\\Local\\Temp\\rust_mozprofile.bszYbiA973l9"
+1585863669537	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585863669886	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585863669887	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585863669887	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585863669887	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585863671690	Marionette	INFO	Listening on port 52879
+1585863671875	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11060: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11116: unreachable code after return statement
+JavaScript error: https://eus.rubiconproject.com/usync.html?gdpr=0&gdpr_consent=, line 12: SecurityError: The operation is insecure.
+1585863876999	Marionette	INFO	Stopped listening on port 52879
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1585863881635	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Stevesy\\AppData\\Local\\Temp\\rust_mozprofile.OVaJIIQME9WP"
+1585863881960	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585863882698	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585863882698	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585863882699	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585863882699	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585863884412	Marionette	INFO	Listening on port 53176
+1585863884757	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11060: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11116: unreachable code after return statement
+JavaScript error: https://eus.rubiconproject.com/usync.html?gdpr=0&gdpr_consent=, line 12: SecurityError: The operation is insecure.
+1585863920637	Marionette	INFO	Stopped listening on port 53176
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1585863925025	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Stevesy\\AppData\\Local\\Temp\\rust_mozprofile.lAhXociiRj4w"
+1585863925391	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585863925948	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585863925948	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585863925948	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585863925948	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585863927739	Marionette	INFO	Listening on port 53362
+1585863928139	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 7097: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 7153: unreachable code after return statement
+JavaScript error: https://eus.rubiconproject.com/usync.html?gdpr=0&gdpr_consent=, line 12: SecurityError: The operation is insecure.
+1585864006536	Marionette	INFO	Stopped listening on port 53362
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1585864289358	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Stevesy\\AppData\\Local\\Temp\\rust_mozprofile.zy1YulpVIiQm"
+1585864289627	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585864290316	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585864290316	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585864290316	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585864290316	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585864292046	Marionette	INFO	Listening on port 53732
+1585864292472	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11058: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11114: unreachable code after return statement
+JavaScript error: https://eus.rubiconproject.com/usync.html?gdpr=0&gdpr_consent=, line 12: SecurityError: The operation is insecure.
+1585865106927	Marionette	INFO	Stopped listening on port 53732
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+etworkStatus
+1585864379145	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585864379145	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585864379145	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585864379145	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585864381486	Marionette	INFO	Listening on port 53941
+1585864381636	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11058: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 11114: unreachable code after return statement
+JavaScript error: https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js, line 56: TypeError: f[0] is undefined
+JavaScript error: https://eus.rubiconproject.com/usync.html?gdpr=0&gdpr_consent=, line 12: SecurityError: The operation is insecure.
+1585865107711	Marionette	INFO	Stopped listening on port 53941
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
