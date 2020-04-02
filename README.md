@@ -1,6 +1,6 @@
 # Coronavirus Scraper
 
-Collects data points from columns country, cases, and new cases and calculates percentage increase, and then populates Excel spreadsheet with list of countries and percentages.
+Collects data points from columns country, cases, and new cases from table on worldmeters.info and calculates percentage increase, and then populates Excel spreadsheet with list of countries and percentages.
 
 ### Prerequisites
 
